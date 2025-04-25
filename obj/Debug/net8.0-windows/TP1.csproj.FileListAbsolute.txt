@@ -1,0 +1,16 @@
+D:\CSHARP\TP1\TP1\bin\Debug\net8.0-windows\TP1.exe
+D:\CSHARP\TP1\TP1\bin\Debug\net8.0-windows\TP1.deps.json
+D:\CSHARP\TP1\TP1\bin\Debug\net8.0-windows\TP1.runtimeconfig.json
+D:\CSHARP\TP1\TP1\bin\Debug\net8.0-windows\TP1.dll
+D:\CSHARP\TP1\TP1\bin\Debug\net8.0-windows\TP1.pdb
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.Form1.resources
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.csproj.GenerateResource.cache
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.AssemblyInfoInputs.cache
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.AssemblyInfo.cs
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.csproj.CoreCompileInputs.cache
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.dll
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\refint\TP1.dll
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.pdb
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\TP1.genruntimeconfig.cache
+D:\CSHARP\TP1\TP1\obj\Debug\net8.0-windows\ref\TP1.dll
